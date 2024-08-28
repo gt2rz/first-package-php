@@ -1,0 +1,11 @@
+{
+    "name": "laravelnews/feeds",
+    "description": "A simple package to read RSS feeds",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LaravelNews\\Feeds\\": "src/"
+        }
+    }
+}
