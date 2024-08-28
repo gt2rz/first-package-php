@@ -2,6 +2,7 @@
     "name": "laravelnews/feeds",
     "description": "A simple package to read RSS feeds",
     "type": "library",
+    "version": "1.0.0",
     "require": {},
     "autoload": {
         "psr-4": {

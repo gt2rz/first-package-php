@@ -1,6 +1,6 @@
 <?php
 
-namespace LarevelNews\Feed;
+namespace LaravelNews\Feed;
 
 class Api
 {
